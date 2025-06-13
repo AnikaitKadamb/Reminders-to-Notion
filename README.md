@@ -1,4 +1,5 @@
-1# [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://notion.so) Reminders to Notion sync - Apple shortcuts
+#  [![Apple Reminders](https://img.shields.io/badge/Apple%20Reminders-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.icloud.com/reminders) to [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://notion.so)  sync - Apple shortcuts
+
 A **highly customizable** apple shortcut to export reminders in Apple Reminders
 to any Notion database including automatic export of reminder properties
 such as completed on, is completed, created on and more. 
