@@ -18,6 +18,8 @@ Access the shortcut here:
 Click on the three dots and follow the comments to set up
 your shorcut in minutes. 
 
+## In case of issues...
+... please reach out to me on reddit or here. 
 
 
 
