@@ -1,13 +1,22 @@
-# apple_Reminder--Notion
-Apple shortcut to transfer reminders from Apple Reminders to a Notion database.
+# Reminders to Notion sync - Apple shortcuts
+a highly customizable apple shortcut to export reminders in Apple Reminders
+to any Notion database including automatic export of reminder properties
+such as completed on, is completed, created on and more. 
 
->[!IMPORTANT]
-> Navigate to "Manual.md" to learn how to use Notion integrations and find Database id.
 
-> [!NOTE] 
-> Three available shortcut links: (you can easily choose what properties to export)
-> 1. Simple import reminders to a Notion Database (include title, creation date, completion date)
-> 2. Simple query, add if new, else update reminders to a Notion database (include title, creation date, completion date)
-> 3. query, add if new, else update reminders to a Notion database which is related to an under a Hierarchy database (think taks -> Projects)
-> 
+## Features
+Syncs between Apple reminder and Notion by adding and/or updating 
+reminders/notes.
+Allows automatic importing of reminder properties such as created on, is completed
+and more to come like notes and tags. Just specify what properties you want and where
+and it will do the rest.
+
+## How to Use
+Access the shortcut here:
+
+Click on the three dots and follow the comments to set up
+your shorcut in minutes. 
+
+
+
 
