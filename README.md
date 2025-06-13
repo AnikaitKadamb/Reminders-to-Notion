@@ -1,5 +1,5 @@
 # Reminders to Notion sync - Apple shortcuts
-a highly customizable apple shortcut to export reminders in Apple Reminders
+A highly customizable apple shortcut to export reminders in Apple Reminders
 to any Notion database including automatic export of reminder properties
 such as completed on, is completed, created on and more. 
 
