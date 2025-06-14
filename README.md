@@ -13,7 +13,7 @@ and more to come like notes and tags. Just specify what properties you want and 
 and it will do the rest.
 
 ## How to Use
-Access the shortcut here:
+Access the shortcut here: https://www.icloud.com/shortcuts/5f03fcc222074e02a95fab03c40126c0
 
 Click on the three dots and follow the comments to set up
 your shorcut in minutes. 
