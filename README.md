@@ -1,4 +1,4 @@
-#  [![Apple Reminders](https://img.shields.io/badge/Apple%20Reminders-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.icloud.com/reminders) to [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://notion.so)  sync - Apple shortcuts
+#  Reminder to Notion - Apple Shortcuts
 
 A **highly customizable** apple shortcut to export reminders in Apple Reminders
 to any Notion database including automatic export of reminder properties
@@ -11,6 +11,19 @@ reminders/notes.
 - Allows automatic importing of reminder properties such as created on, is completed
 and more to come like notes and tags. Just specify what properties you want and where
 and it will do the rest.
+
+### Reminder Properties Implementation Log
+
+Note: Property name as seen for reminders in apple shortcuts
+
+|Property|Status|Notes|
+|---|---|---|
+|Title|🟢|V1.0|
+|Due Date|🟢|V1.0|
+|Is Completed|🟢|V1.0|
+|Completion Date|🟢|V1.0|
+|Notes|🟡|Soon V1.1|
+|Tags|🟡|Soon V1.1|
 
 ## How to Use
 Access the shortcut here: https://www.icloud.com/shortcuts/95911b8d4ece44f59513792b8f4f9311
